@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Layouting</string>
+    <string name="scrollview">ScrollView</string>
+</resources>
